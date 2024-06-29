@@ -3,7 +3,7 @@ Second Semester, Data science, Will try to use this repository as a way of compl
 
 ## Course work
 - Week 1: Python primer written in juypter - https://github.com/Mokoto-K/COSC102-week1-python-primer
-- Week 1: CSV files and Matplotlib plots - https://github.com/Mokoto-K/COSC102-week2-data-n-plots
+- Week 2: CSV files and Matplotlib plots - https://github.com/Mokoto-K/COSC102-week2-data-n-plots
 
 ## Tutorials
 - Tutorial 1: https://github.com/Mokoto-K/COSC102-tutorial-1
