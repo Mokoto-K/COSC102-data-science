@@ -8,7 +8,8 @@ Second Semester, Data science, Will try to use this repository as a way of compl
 ## Tutorials
 - Tutorial 1: https://github.com/Mokoto-K/COSC102-tutorial-1
 - Tutorial 2: https://github.com/Mokoto-K/COSC102-tutorial-2
-- Tutorial 2: https://github.com/Mokoto-K/COSC102-tutorial-3
+- Tutorial 3: https://github.com/Mokoto-K/COSC102-tutorial-3
+- Tutorial 4: https://github.com/Mokoto-K/COSC102-tutorial-4
 
 ## Assignments
 - https://github.com/Mokoto-K/COSC102-assignment-1
