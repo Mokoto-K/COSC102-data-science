@@ -14,6 +14,7 @@ Second Semester, Data science, Will try to use this repository as a way of compl
 ## Assignments
 - https://github.com/Mokoto-K/COSC102-assignment-1
 - https://github.com/Mokoto-K/COSC102-assignment-2
+- https://github.com/Mokoto-K/COSC102-assignment-3
 
 ## Textbook projects
 - https://github.com/Mokoto-K/housing-price-prediction-model
